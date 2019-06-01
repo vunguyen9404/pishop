@@ -1,7 +1,7 @@
 {
-  "name": "hello-next",
+  "name": "pishop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ecommerce opensoure with Nodejs + ExpressJs + NextJs + ReactJs + Mongodb",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.ts",
@@ -17,12 +17,14 @@
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
     "@types/node": "^10.12.1",
+    "@zeit/next-sass": "^1.0.1",
     "@zeit/next-typescript": "^1.1.1",
     "chai": "^4.2.0",
     "express": "^4.16.4",
     "isomorphic-unfetch": "^3.0.0",
     "mocha": "^5.2.0",
     "next": "^7.0.2",
+    "node-sass": "^4.12.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-markdown": "^4.0.3",
@@ -34,7 +36,6 @@
     "@types/next": "^7.0.3",
     "@types/react": "^16.4.18",
     "@types/react-dom": "^16.0.9",
-    "@types/styled-jsx": "^2.2.7",
     "nodemon": "^1.18.7",
     "ts-node": "^7.0.1"
   },

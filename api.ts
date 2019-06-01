@@ -6,5 +6,4 @@ router.get('/hello', function(req:any, res:any) {
   res.send('hello')
 });
 
-
 export default router
