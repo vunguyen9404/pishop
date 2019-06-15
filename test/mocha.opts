@@ -1,3 +1,4 @@
+--require ts-node/register
 --timeout 15000
 --recursive
-test/specs/**/*.ts
+test/specs/**/*.test.ts
